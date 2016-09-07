@@ -20,7 +20,7 @@ Conteúdo
 * Interrupt fires ( EXCETO para teclados USB)
 * (Windows) Uma mensagem ``WM_KEYDOWN`` é enviada para um app
 * (No OS X)Uma ``KeyDown`` NSEvent é enviado para o app
-*( No GNU/Linux) O Servidor Xorg escuta os códigos chave
+* ( No GNU/Linux) O Servidor Xorg escuta os códigos chave
 * Parse de URL
 * É uma URL ou um termo de pesquisa
 * Lista de verificação HSTS
